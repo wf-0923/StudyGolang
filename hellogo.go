@@ -6,4 +6,5 @@ import (
 
 func main() {
 	fmt.Println("Hello World!123")
+	fmt.Println("git测试")
 }
